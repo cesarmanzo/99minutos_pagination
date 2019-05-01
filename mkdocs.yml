@@ -1,0 +1,12 @@
+site_name: 99minutos_pagination
+site_description: Ejemplo de paginación para 99minutos
+repo_url: https://github.com/cesarmanzo/99minutos_pagination
+site_dir: site
+copyright: Copyright &copy; 2019, <a href="https://github.com/cesarmanzo">cesarmanzo</a>.
+dev_addr: 0.0.0.0:8001
+
+nav:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'

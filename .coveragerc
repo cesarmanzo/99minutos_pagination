@@ -1,0 +1,10 @@
+[run]
+branch = True
+omit = *migrations*,
+       *urls*,
+       *test*,
+       *admin*,
+       ./manage.py,
+       ./99minutos_pagination/config/*,
+       ./99minutos_pagination/wsgi.py,
+       *__init__*
