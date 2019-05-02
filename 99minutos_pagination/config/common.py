@@ -24,6 +24,7 @@ class Common(Configuration):
 
         # Your apps
         '99minutos_pagination.users',
+        'orders',
 
     )
 
